@@ -6,7 +6,7 @@ A modern and responsive web application written from scratch for employee manage
 
 ## 📋 Table of Contents
 
-- [Live Demo](#-live-demo)
+- [Live Website](#-live-website)
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [Installation](#-installation)
