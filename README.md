@@ -17,9 +17,9 @@ A modern and responsive web application written from scratch for employee manage
 - [Contributing](#-contributing)
 - [Contact](#-contact)
 
-## 🚀 Live Demo
+## 🚀 Live Website
 
-[View Live Demo](https://nilesh-c-01.github.io/Employee-Portal/)
+[View Live Website](https://nilesh-c-01.github.io/Employee-Portal/)
 
 ## 🌟 Features
 
