@@ -1,12 +1,8 @@
-# 🏢 Company HR Portal (A Web-Dev project focused on frontend)
+# 🏢 Company HR Portal
 
-A modern, responsive web application for employee management and HR operations. This portal provides a clean interface for employee registration, directory management and company contact information.
+A modern, responsive web application for employee management and HR operations. This portal provides a clean interface for employee registration, directory management, and company contact information.
 
 ![HR Portal Preview](img.png)
-
-## 🚀 Live website
-
-[View Live webiste](https://nilesh-c-01.github.io/Employee-Portal-website/)
 
 ## 📋 Table of Contents
 
@@ -15,12 +11,15 @@ A modern, responsive web application for employee management and HR operations. 
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [File Structure](#-file-structure)
-- [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
 
-  ## 🌟 Features
+## 🚀 Live Demo
+
+[View Live Demo](https://nilesh-c-01.github.io/Employee-Portal/)
+
+## 🌟 Features
 
 - **Employee Registration Form** - Complete form with validation for new employee onboarding
 - **Employee Directory** - Comprehensive table displaying all registered employees
@@ -39,12 +38,12 @@ A modern, responsive web application for employee management and HR operations. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Nilesh-C-01/Employee-Portal-website.git
+   git clone https://github.com/Nilesh-C-01/Employee-Portal.git
    ```
 
 2. **Navigate to the project directory**
    ```bash
-   cd employee-portal
+   cd Employee-Portal
    ```
 
 3. **Open in your preferred browser**
@@ -53,6 +52,8 @@ A modern, responsive web application for employee management and HR operations. 
    open index.html
    # Or use a local server
    python -m http.server 8000
+   # Or directly go to the live link:
+   https://nilesh-c-01.github.io/Employee-Portal/
    ```
 
 ## 💻 Usage
@@ -64,19 +65,20 @@ A modern, responsive web application for employee management and HR operations. 
    - Email Address
    - Password
    - Age
-   - Role Selection
+   - Role Selection (from pre-defined categories)
    - Joining Date
 3. Click "Submit" to register
 
 ### Employee Directory
-- View all registered employees in a structured table format
-- Information includes Employee ID, Name, and Role
+  (Hard coded for now since no database or JS component is there)
+- View all registered employees in a structured table format 
+- Information includes Employee ID, Name and Role
 - Easily searchable and organized layout
 
 ### Contact Information
-- Access company contact details
-- View office location through embedded Google Maps
-- Business hours and email contact provided
+- Access company contact details (dummy details for reference, easily customisable in the code to add the actual details) 
+- View office location through embedded Google Maps (dummy location added for reference, easily customisable in the code to add the actual location)
+- Business hours and email contact provided (just for reference following the general conventions, easily customisable in the code to add the actual details)
 
 ## 📁 File Structure
 
@@ -87,6 +89,7 @@ employee-portal/
 ├── favicon.ico         # Website favicon
 ├── img.png            # Header image/logo
 ├── README.md          # Project documentation
+
 ```
 
 
@@ -97,24 +100,36 @@ employee-portal/
 - **Layout**: Centered, responsive design with proper spacing
 - **Navigation**: Smooth scroll navigation between sections
 
-## 🚀 Future Enhancements
+## 🚀 Future Enhancements or Modifications 
 
-- [ ] Add form validation and submission functionality
-- [ ] Implement employee data persistence (localStorage/database)
-- [ ] Add employee search and filtering capabilities
-- [ ] Include employee profile pictures
-- [ ] Add dark/light theme toggle
-- [ ] Implement user authentication
-- [ ] Add employee edit/delete functionality
-- [ ] Include data export features (CSV/PDF)
+- [ ] Implementing employee data persistence (localStorage/master database)
+- [ ] Adding employee search and filtering capabilities
+- [ ] Including employee profile pictures
+- [ ] Adding dark/light theme toggle
+- [ ] Implementing user authentication
+- [ ] Adding employee data edit/delete functionality
+- [ ] Including data export features (CSV/PDF)
 
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
 **Nilesh Choudhury**
 - LinkedIn: [nilesh01](https://www.linkedin.com/in/nilesh01/)
 - Email: sasubere@gmail.com
-- Project Link: [https://github.com/your-username/employee-portal](https://github.com/your-username/employee-portal)
+- Project Link: [https://github.com/Nilesh-C-01/Employee-Portal](https://github.com/Nilesh-C-01/Employee-Portal)
 
 ---
 
