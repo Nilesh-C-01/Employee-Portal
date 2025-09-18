@@ -6,7 +6,7 @@ A modern, responsive web application for employee management and HR operations. 
 
 ## 🚀 Live website
 
-[View Live webiste](https://your-username.github.io/employee-portal) _(Replace with your actual GitHub Pages URL)_
+[View Live webiste](https://nilesh-c-01.github.io/Employee-Portal-website/)
 
 ## 📋 Table of Contents
 
@@ -39,7 +39,7 @@ A modern, responsive web application for employee management and HR operations. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/employee-portal.git
+   git clone https://github.com/Nilesh-C-01/Employee-Portal-website.git
    ```
 
 2. **Navigate to the project directory**
