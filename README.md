@@ -1,3 +1,6 @@
+![GitHub stars](https://img.shields.io/github/stars/Nilesh-C-01/Employee-Portal)
+![GitHub forks](https://img.shields.io/github/forks/Nilesh-C-01/Employee-Portal)
+
 # 🏢 Company HR Portal (A Web-Dev project focused on frontend)
 
 A modern and responsive web application written from scratch for employee management and HR operations. This portal provides a clean interface for employee registration, directory management and company contact information.
