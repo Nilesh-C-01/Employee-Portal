@@ -1,6 +1,6 @@
 # 🏢 Company HR Portal
 
-A modern, responsive web application for employee management and HR operations. This portal provides a clean interface for employee registration, directory management, and company contact information.
+A modern and responsive web application for employee management and HR operations. This portal provides a clean interface for employee registration, directory management and company contact information.
 
 ![HR Portal Preview](img.png)
 
