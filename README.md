@@ -1,20 +1,12 @@
-# 🏢 Company HR Portal
+# 🏢 Company HR Portal (A Web-Dev project focused on frontend)
 
-A modern, responsive web application for employee management and HR operations. This portal provides a clean interface for employee registration, directory management, and company contact information.
+A modern, responsive web application for employee management and HR operations. This portal provides a clean interface for employee registration, directory management and company contact information.
 
 ![HR Portal Preview](img.png)
 
-## 🌟 Features
+## 🚀 Live website
 
-- **Employee Registration Form** - Complete form with validation for new employee onboarding
-- **Employee Directory** - Comprehensive table displaying all registered employees
-- **Contact Information** - Easy access to company contact details with embedded map
-- **Responsive Design** - Optimized for both desktop and mobile devices
-- **Clean UI/UX** - Professional styling with intuitive navigation
-
-## 🚀 Live Demo
-
-[View Live Demo](https://your-username.github.io/employee-portal) _(Replace with your actual GitHub Pages URL)_
+[View Live webiste](https://your-username.github.io/employee-portal) _(Replace with your actual GitHub Pages URL)_
 
 ## 📋 Table of Contents
 
@@ -27,6 +19,14 @@ A modern, responsive web application for employee management and HR operations. 
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Contact](#-contact)
+
+  ## 🌟 Features
+
+- **Employee Registration Form** - Complete form with validation for new employee onboarding
+- **Employee Directory** - Comprehensive table displaying all registered employees
+- **Contact Information** - Easy access to company contact details with embedded map
+- **Responsive Design** - Optimized for both desktop and mobile devices
+- **Clean UI/UX** - Professional styling with intuitive navigation
 
 ## 🛠 Technologies Used
 
@@ -87,22 +87,8 @@ employee-portal/
 ├── favicon.ico         # Website favicon
 ├── img.png            # Header image/logo
 ├── README.md          # Project documentation
-└── assets/            # Additional assets (if any)
-    ├── css/
-    ├── js/
-    └── images/
 ```
 
-## 📱 Screenshots
-
-### Desktop View
-![Desktop View](screenshots/desktop-view.png)
-
-### Mobile View
-![Mobile View](screenshots/mobile-view.png)
-
-### Registration Form
-![Registration Form](screenshots/registration-form.png)
 
 ## 🎨 Design Highlights
 
@@ -122,19 +108,6 @@ employee-portal/
 - [ ] Add employee edit/delete functionality
 - [ ] Include data export features (CSV/PDF)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
