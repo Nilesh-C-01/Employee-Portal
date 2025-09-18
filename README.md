@@ -1,16 +1,19 @@
-# 🏢 Company HR Portal
+# 🏢 Company HR Portal (A Web-Dev project focused on frontend)
 
-A modern and responsive web application for employee management and HR operations. This portal provides a clean interface for employee registration, directory management and company contact information.
+A modern and responsive web application written from scratch for employee management and HR operations. This portal provides a clean interface for employee registration, directory management and company contact information.
 
 ![HR Portal Preview](img.png)
 
 ## 📋 Table of Contents
 
+- [Live Demo](#-live-demo)
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [File Structure](#-file-structure)
+- [Design Highlights](#-design-highlights)
+- [Future Enhancements or Modifications](#-future-enhancements-or-modifications)
 - [Contributing](#-contributing)
 - [Contact](#-contact)
 
@@ -96,7 +99,7 @@ employee-portal/
 
 - **Color Scheme**: Professional blue palette (#3a6ae2, #BDBDFF)
 - **Typography**: Cambria font family for readability
-- **Layout**: Centered, responsive design with proper spacing
+- **Layout**: Centered and responsive design with proper spacing
 - **Navigation**: Smooth scroll navigation between sections
 
 ## 🚀 Future Enhancements or Modifications 
